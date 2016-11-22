@@ -1,0 +1,18 @@
+{
+  "name": "carl-go",
+  "version": "0.0.0",
+  "description": "CarlGO",
+  "main": "app.js",
+  "author": {
+    "name": "Carl"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "gulp": "^3.9.1",
+    "gulp-tsc": "^1.2.5",
+    "gulp-zip": "^3.2.0",
+    "jade": "*",
+    "stylus": "*",
+    "typescript": "^2.0.10"
+  }
+}
